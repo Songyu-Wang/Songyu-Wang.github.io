@@ -15,7 +15,8 @@ function getConfig() {
 
         output: {
             path: path.join(__dirname, 'public'),
-            filename: 'bundle.js'
+            filename: 'bundle.js',
+            publicPath: "/songyu-wang.github.io/",
         },
 
         module: {
@@ -32,7 +33,7 @@ function getConfig() {
         new webpack.LoaderOptionsPlugin({
             minimize: true
         }),
-        
+
         ]
     };
 }
