@@ -1,0 +1,371 @@
+{
+  "basics": {
+    "name": "Songyu Wang",
+    "label": "Software Engineer in Test",
+    "picture": "./public/images/profile_image.jpeg",
+    "email": "wangsongyuf@gmail.com",
+    "phone": "1-812-201-9470",
+    "website": "https://Songyu-Wang.github.io",
+    "summary": [
+      "Software test engineer with experience in medical devices industry (regulated)",
+      "Heavily involved in test design, test automation, test framework development and test framework maintenance",
+      "Collaborated daily with development teams to ensure the quality of the products",
+      "Produced various test-related documentations to meet regulatory compliance",
+      "Familiar with Scrum practice"
+    ],
+    "location": {
+      "address": "",
+      "postalCode": "94063",
+      "city": "Redwood City, CA"
+    },
+    "profiles": [
+     {
+      "network": "GitHub",
+      "username": "Songyu-Wang",
+      "url": "https://github.com/Songyu-Wang"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "Songyu Wang",
+      "url": "https://linkedin.com/in/wangsongyu"
+    }
+  ]
+  },
+  "work": [
+    {
+      "company": "HeartFlow, Inc",
+      "website": "https://www.heartflow.com/",
+      "position": "Software Engineer in Test",
+      "startDate": "2018-07",
+      "endDate": "Present",
+      "summary": "Redwood City, CA",
+      "highlights": [
+        "Supported three internal and external UI products",
+        "Developed and maintained Frontend test frameworks for both new and existing software development practices",
+        "Designed manual and automated tests to verify frontend product requirements",
+        "Automated manual tests to improve test automation rate",
+        "Performed verification and validation activities before releasing product updates. E.g. creating test plans, executing functional tests, collaborating system level testing across teams/components, etc.",
+        "Produced and examined various deployment and test related documentations that meet regulatory compliance",
+        "Practiced Scrum framework",
+        "Performed minor development tasks"
+      ]
+    },
+    {
+      "company": "HeartFlow, Inc",
+      "website": "https://www.heartflow.com/",
+      "position": "Software Engineer in Test, Intern",
+      "startDate": "2017-05",
+      "endDate": "2017-08",
+      "summary": "Redwood City, CA",
+      "highlights": [  
+        "Supported three internal and external UI products",
+        "Designed manual and automated tests to verify frontend product requirements",
+        "Automated manual tests to improve test automation rate",
+        "Executed manual tests to support release activities"
+      ]
+    },
+    {
+      "company": "Rose-Hulman Ventures",
+      "website": "https://www.rhventures.org/",
+      "position": "Software Intern",
+      "startDate": "2017-02",
+      "endDate": "2017-05",
+      "summary": "Terre Haute, IN",
+      "highlights": [
+        "Implemented and improved a multi-platform(Web/IOS) application",
+        "Designed multiple versions of mobile app UI",
+        "Implemented features for programmable logic controller"
+      ]
+    },
+    {
+      "company": "Rose-Hulman Institute of Technology",
+      "website": "https://www.rose-hulman.edu/",
+      "position": "Teaching Assistant",
+      "startDate": "2017-03",
+      "endDate": "2018-05",
+      "summary": "Terre Haute, IN",
+      "highlights": [
+        "Graded assignments for Software Quality Assurance course (Spring 2017)",
+        "Graded assignments for Software Requirements Engineering course (Fall 2017)",
+        "Graded assignments for Intro to Database Systems course and answered students' questions at lab (Winter 2017)",
+        "Graded assignments for Software Construction and Evolution course (Spring 2018)"
+      ]
+    },
+    {
+      "company": "Pansoft Co. Ltd.",
+      "position": "Software Intern",
+      "startDate": "2016-06",
+      "endDate": "2016-07",
+      "summary": "Jinan, China",
+      "highlights": [
+        "Implemented minor features for different projects"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Rose-Hulman Institute of Technology",
+      "gpa": "3.73\/4",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-08",
+      "endDate": "2018-05",
+      "summary": "Terre Haute, IN",
+      "highlights": [
+        "Double Major: Computer Science major and Software Engineering major",
+        "Minors: Mathematics minor, Computational Science minor and Data Science minor",
+        "Senior Project: Popular Media, a media content selling website, proposed by Popular Pays, Inc. (Chicago, IL). Used Ember.js, Ruby on Rails, PostgreSQL and Google Cloud Vision",
+        "Member of Upsilon Pi Epsilon(ΥΠΕ): International Honor Society for the Computing and Information Disciplines",
+        "Member of the Order of the Engineer"
+      ]
+    }
+  ],
+  "skills": [
+
+    {
+      "title": "Frontend Testing",
+      "description": [
+        "Testing tools primarily used at Heartflow Inc."
+      ],
+      "skillDetails": [
+        {
+          "name": "SauceLabs",
+          "level": "70",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Selenium",
+          "level": "80",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Mailosaur",
+          "level": "50",
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Programming Languages",
+      "description": [
+        "Primarily used Java and Python",
+        "Had experience with Matlab, C and C#"
+      ],
+      "skillDetails": [
+        {
+          "name": "Java",
+          "level": "80",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Python",
+          "level": "80",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Matlab",
+          "level": "50",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "C",
+          "level": "30",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "C#",
+          "level": "30",
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Web development",
+      "description": [
+        "Developed full stack web projects in various languages and frameworks"
+      ],
+      "skillDetails": [
+        {
+          "name": "HTML",
+          "level": "80",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "CSS",
+          "level": "50",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "level": "30",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Ruby on Rails",
+          "level": "50",
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Operating Systems",
+      "description": [
+        "Advanced knowledge of major operating systems"
+      ],
+      "skillDetails": [
+        {
+          "name": "Mac",
+          "level": "80",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Linux",
+          "level": "70",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Windows",
+          "level": "60",
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Database",
+      "description": [
+        "Experienced with various SQL and NoSQL databases"
+      ],
+      "skillDetails": [
+        {
+          "name": "MySQL and similar SQL database",
+          "level": "70",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "MongoDB",
+          "level": "50",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Redis",
+          "level": "60",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Neo4j",
+          "level":"50",
+          "keywords": []
+        }
+      ]
+    },
+
+    {
+      "title": "Programming Related Tools",
+      "description": [
+        ""
+      ],
+      "skillDetails": [
+        {
+          "name": "Hadoop",
+          "level": "50",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Git",
+          "level": "70",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "AWS",
+          "level": "50",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Google Cloud",
+          "level": "50",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Jenkins",
+          "level": "30",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Docker",
+          "level": "30",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Scalr",
+          "level": "30",
+          "keywords":[]
+        }
+      ]
+    },
+    {
+      "title": "Non Programming Related Tools",
+      "description": [
+        ""
+      ],
+      "skillDetails": [
+        {
+          "name": "Jira",
+          "level": "70",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Confluence",
+          "level": "70",
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Also Trained in",
+      "description": [
+        "Algorithm",
+        "Software Project Management",
+        "Software Requirement Engineering",
+        "Software Design",
+        "Software Construction",
+        "Data Mining",
+        "Machine Learning",
+        "Computer Security",
+        "Digital Forensics",
+        "Distributed Systems",
+        "Computer Hardware",
+        "Image Recognition"
+      ],
+      "skillDetails": [
+
+      ]
+    }
+
+  ]
+}
