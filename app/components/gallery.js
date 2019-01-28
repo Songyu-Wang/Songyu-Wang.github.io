@@ -19,7 +19,7 @@ const Gallery = React.createClass({
     ]
 
     return (
-      <ImageGallery items={images} />
+      <ImageGallery items={images} showPlayButton={false}/>
       );
   }
 });
