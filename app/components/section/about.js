@@ -55,7 +55,7 @@ const About = React.createClass({
             </div>
             <div className='columns download'>
             <p>&nbsp;
-            <a href='#' className='button'>
+            <a href='../../public/Resume_Songyu_Wang.pdf' className='button' target="_blank">
             <i className='fa fa-download'></i>
             Download Resume
             </a>
