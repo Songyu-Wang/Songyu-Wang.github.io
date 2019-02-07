@@ -464,19 +464,18 @@ strong.fa-quora {
 }
 .bars li {
  position: relative;
- margin-bottom: 60px;
+ margin-bottom: 30px;
  background: #ccc;
- height: 42px;
+ height: 20px;
  border-radius: 3px;
 }
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	font: 12px 'opensans-bold', sans-serif;
  color: #FFFFFF;
  text-transform: uppercase;
  letter-spacing: 2px;
  font-weight: normal;
  position: relative;
- top: 10px;
  left: 10px;
 }
 .bar-expand {
@@ -488,7 +487,7 @@ strong.fa-quora {
  padding-right: 24px;
  background: #313131;
  display: inline-block;
- height: 42px;
+ height: 20px;
  line-height: 42px;
  border-radius: 3px 0 0 3px;
 }
