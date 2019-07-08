@@ -135,6 +135,18 @@
           ]
         },
         {
+          "name": "Cypress",
+          "level": "70",
+          "keywords": [
+          ]
+        },
+        {
+          "name": "Behave",
+          "level": "70",
+          "keywords": [
+          ]
+        },
+        {
           "name": "Selenium",
           "level": "80",
           "keywords": [
