@@ -41,7 +41,8 @@
       "summary": "Redwood City, CA",
       "highlights": [
         "Supported three internal and external UI products",
-        "Developed and maintained Frontend test frameworks for both new and existing software development practices",
+        "Developed and maintained existing legacy Frontend test frameworks",
+	"Designed and Implemented two new Frontend test frameworks",
         "Designed manual and automated tests to verify frontend product requirements",
         "Automated manual tests to improve test automation rate",
         "Performed verification and validation activities before releasing product updates. E.g. creating test plans, executing functional tests, collaborating system level testing across teams/components, etc.",
