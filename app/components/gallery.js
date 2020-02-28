@@ -19,9 +19,12 @@ const Gallery = React.createClass({
     {
       original: '../../public/images/mta.jpg',
       thumbnail: '../../public/images/mta.jpg'
+    },
+    {
+      original: '../../public/images/triplebyte.jpg',
+      thumbnail: '../../public/images/triplebyte.jpg'
     }
     ]
-
     return (
       <ImageGallery items={images} showPlayButton={false}/>
       );

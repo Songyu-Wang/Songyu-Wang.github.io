@@ -28,7 +28,7 @@ const About = React.createClass({
             })}
             <div className="row" style={{width:'50%'}}>
             <div className='columns'>
-            <h2>Certification</h2>
+            <h2>Certifications</h2>
             <Gallery />
             </div>
             </div>
@@ -50,17 +50,26 @@ const About = React.createClass({
             <span>{this.props.content.location.countryCode}</span>
             <br/>
             </p>
-            </div>
-            </div>
+
             </div>
             <div className='columns download'>
             <p>&nbsp;
-            <a href='../../public/Resume_Songyu_Wang.pdf' className='button' target="_blank">
+            <a href='../../public/Songyu_Wang_Resume.pdf' className='button' target="_blank">
             <i className='fa fa-download'></i>
-            Download Resume
+            Download Resume (.pdf)
+            </a>
+            <br/>
+            <a href='../../public/Songyu_Wang_Resume.docx' className='button' target="_blank">
+            <i className='fa fa-download'></i>
+            Download Resume (.docx)
             </a>
             </p>
             </div>
+            </div>
+
+            </div>
+
+
             </div>
             </section>
             );
