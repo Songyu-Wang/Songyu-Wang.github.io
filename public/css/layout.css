@@ -261,6 +261,7 @@ ul#nav li.current a { color: #F06000; }
 #about .download {
  width: 58.33333%;
  padding-top: 6px;
+ margin-top:20px
 }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
@@ -467,6 +468,10 @@ strong.fa-quora {
  background: #ccc;
  height: 20px;
  border-radius: 3px;
+ width:40%;
+ float:left;
+ margin-right:20px;
+
 }
 .bars li em {
 	font: 12px 'opensans-bold', sans-serif;
@@ -481,7 +486,6 @@ strong.fa-quora {
  position: absolute;
  left: 0;
  top: 0;
-
  margin: 0;
  padding-right: 24px;
  background: #313131;

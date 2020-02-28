@@ -38,7 +38,7 @@ const Entry = React.createClass({
         return (
             <li>
             <span
-            className={`bar-expand percentage${this.props.entry.level}`}
+            className={`bar-expand percentage100`}
             onMouseEnter={this.handleMouseEnter}
             onMouseLeave={this.handleMouseLeave}
             style={this.state.style}/>
