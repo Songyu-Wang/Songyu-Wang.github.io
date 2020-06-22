@@ -23,6 +23,10 @@ const Gallery = React.createClass({
     {
       original: '../../public/images/triplebyte.jpg',
       thumbnail: '../../public/images/triplebyte.jpg'
+    },
+    {
+      original: '../../public/images/google it auto.jpg',
+      thumbnail: '../../public/images/google it auto.jpg'
     }
     ]
     return (

@@ -7,8 +7,7 @@
         "phone": "1-812-201-9470",
         "website": "https://Songyu-Wang.github.io",
         "summary": [
-            "Software test engineer (quality assurance specialist) with two years of experience in test strategy design, test automation, test plan, test execution(manual and automated) and test framework/tool development in the highly regulated medical industry in a SCRUM/Agile environment. Deep understanding of functional testing with behavior driven development and test driven development. Strong technical acumen with extensive defect and bug identification, triage, reporting and verification exposure. Oversee verification and validation regularly for web applications, API services, etc."
-        ],
+            "Software test engineer (quality assurance specialist) with two years of experience in test strategy design, test automation, test plan, test execution(manual and automated), and test framework/tool development in the highly regulated medical industry in a SCRUM/Agile environment. Deep understanding of functional testing with behavior-driven development and test-driven development. Strong technical acumen with extensive defect and bug identification, triage, reporting, and verification exposure. Oversee verification and validation regularly for web applications, API services, etc. "  ],
         "location": {
             "address": "",
             "postalCode": "94063",
@@ -28,22 +27,34 @@
         ]
     },
     "work": [
+                {
+            "company": "Benchling",
+            "website": "https://www.benchling.com/",
+            "position": "Software Engineer, Quality",
+            "startDate": "2020-06",
+            "endDate": "Present",
+            "summary": "San Francisco, CA",
+            "highlights": [
+                "Come back in a few months to find out more!"
+            ]
+        },
         {
             "company": "HeartFlow, Inc",
             "website": "https://www.heartflow.com/",
             "position": "Software Engineer in Test",
             "startDate": "2018-07",
-            "endDate": "Present",
+            "endDate": "2020-04",
             "summary": "Redwood City, CA",
             "highlights": [
-                "Oversee quality and testing for platforms and services’ components in a SCRUM/Agile environment for a medical technology company that develops software used to create 3D models of coronary arteries to analyze blockages and the impact on blood flow",
-                "Support development and verification of three web applications, three backend/API services and four workflow/product-related components ",
-                "Maintain and refactor existing legacy test frameworks to improve stability and speed, continuously deliver new features for newer frameworks",
-                "Design manual and automated tests using Python and JavaScript to refine and verify product requirements prior to launch/implementation",
-                "Discover and manage internal and external defects and bugs",
-                "Conduct verification/validation activities, including developing and executing test plans, reviewing results and writing reports, and collaborate with cross-functional teams to perform functional, regression, and system-level testing, and ensuring all test-related documentation meets the current corporate and federal regulations",
-                "Prepare Test /Risk Traceability Reports to document test execution outcomes and trace each product requirement and risk contributor/mitigator to the test"
-            ]
+                "Oversaw quality and testing for platforms' and services’ components in a SCRUM/Agile environment for a medical technology company that develops software used to create 3D models of coronary arteries to analyze blockages and the impact on blood flow",
+                "Supported development and verification of three web applications, three backend/API services and four workflow/product-related components",
+                "Maintained and refactored existing legacy test frameworks to improve stability and speed, continuously deliver new features for newer frameworks",
+                "Implemented and maintained internal tools to support the development and verification effort",
+                "Designed manual and automated tests using Python and JavaScript to refine and verify product requirements prior to launch/implementation",
+                "Discovered and managed hundreds of internal and external defects and bugs",
+                "Conducted verification/validation activities, including developing and executing test plans, reviewing results and writing reports, and collaborate with cross-functional teams to perform functional, regression, and system-level testing, and ensuring all test-related documentation meets the current corporate and federal regulations",
+                "Prepared Test /Risk Traceability Reports to document test execution outcomes and traced each product requirement and risk contributor/mitigator to the test"
+               ]
         },
         {
             "company": "HeartFlow, Inc",
