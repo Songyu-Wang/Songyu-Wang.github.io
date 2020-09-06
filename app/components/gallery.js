@@ -9,6 +9,14 @@ const Gallery = React.createClass({
   render: function () {
     const images = [
     {
+      original: '../../public/images/triplebyte.jpg',
+      thumbnail: '../../public/images/triplebyte.jpg'
+    },
+    {
+      original: '../../public/images/eit.jpg',
+      thumbnail: '../../public/images/eit.jpg'
+    },
+    {
       original: '../../public/images/pspo.jpg',
       thumbnail: '../../public/images/pspo.jpg'
     },
@@ -17,17 +25,13 @@ const Gallery = React.createClass({
       thumbnail: '../../public/images/psm.jpg',
     },
     {
+      original: '../../public/images/google it auto.jpg',
+      thumbnail: '../../public/images/google it auto.jpg'
+    },
+    {
       original: '../../public/images/mta.jpg',
       thumbnail: '../../public/images/mta.jpg'
     },
-    {
-      original: '../../public/images/triplebyte.jpg',
-      thumbnail: '../../public/images/triplebyte.jpg'
-    },
-    {
-      original: '../../public/images/google it auto.jpg',
-      thumbnail: '../../public/images/google it auto.jpg'
-    }
     ]
     return (
       <ImageGallery items={images} showPlayButton={false}/>
