@@ -1,17 +1,16 @@
 {
     "basics": {
         "name": "Songyu Wang",
-        "label": "Software Engineer in Test",
+        "label": "",
         "picture": "./public/images/profile_image.jpeg",
         "email": "wangsongyuf@gmail.com",
         "phone": "1-812-201-9470",
         "website": "https://Songyu-Wang.github.io",
-        "summary": [
-            "Software test engineer (quality assurance specialist) with two years of experience in test strategy design, test automation, test plan, test execution(manual and automated), and test framework/tool development in the highly regulated medical industry in a SCRUM/Agile environment. Deep understanding of functional testing with behavior-driven development and test-driven development. Strong technical acumen with extensive defect and bug identification, triage, reporting, and verification exposure. Oversee verification and validation regularly for web applications, API services, etc. "  ],
+        "summary": ["Software test engineer (quality assurance specialist) with three years of experience in test strategy design, test automation, test plan, test execution(manual and automated), and test framework/tool development in the highly regulated industry in a SCRUM/Agile environment. Experienced in complex test management and tractability. Have deep understanding of functional testing with behavior-driven development and test-driven development. Have strong technical acumen with extensive defect and bug identification, triage, reporting, and verification exposure. Oversaw verification and validation regularly for web applications, API services, etc. "],
         "location": {
             "address": "",
-            "postalCode": "94063",
-            "city": "Redwood City, CA"
+            "postalCode": "",
+            "city": ""
         },
         "profiles": [
             {
@@ -35,7 +34,15 @@
             "endDate": "Present",
             "summary": "San Francisco, CA",
             "highlights": [
-                "Come back in a few months to find out more!"
+                "Participating in multiple company-wide quality-related projects for a cloud company that develops software platform powering breakthrough research on biotherapeutics, biofuels, and biomaterials",
+                "Acting release engineer to perform release activities for GxP(regulations and guidelines applicable to life sciences organizations) customers. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments",
+                "Acting release engineer to perform release activities for GxP(regulations and guidelines applicable to life sciences organizations) customers. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments",
+                "Designing and implementing test case management SOP(standard operating procedure) that meets the current corporate and federal regulations",
+                "Participating in GxP SOP design and technical implementation/automation",
+                "Researched and evaluated the difference between Cypress and TestCafe. Heavily influenced the company's tech stack choice",
+                "Participated in web application testing framework development using Cypress",
+                "Designed and implemented a test traceability system with Jira/Xray integration to enable the product to be GxP compliant",
+                "Supported/developed developer productivity tools"
             ]
         },
         {
