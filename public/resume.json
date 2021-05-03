@@ -34,15 +34,17 @@
             "endDate": "Present",
             "summary": "San Francisco, CA",
             "highlights": [
-                "Participating in multiple company-wide quality-related projects for a cloud company that develops software platform powering breakthrough research on biotherapeutics, biofuels, and biomaterials",
-                "Acting release engineer to perform release activities for GxP(regulations and guidelines applicable to life sciences organizations) customers. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments",
-                "Acting release engineer to perform release activities for GxP(regulations and guidelines applicable to life sciences organizations) customers. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments",
-                "Designing and implementing test case management SOP(standard operating procedure) that meets the current corporate and federal regulations",
-                "Participating in GxP SOP design and technical implementation/automation",
+               "Participating in multiple company-wide quality-related projects for a cloud company that develops software platform powering breakthrough research on biotherapeutics, biofuels, and biomaterials",
+                "Improving E2E (end-to-end) testing coverage for various teams",
+                "Designing and implementing test case management SOP (standard operating procedure) that meets the regulations",
+                "Participated in GxP (regulations and guidelines applicable to life sciences organizations) SOP design and technical implementation/automation",
+                "Designed and implemented software versioning CI (continuous integration) pipelines for various types of the product",
+                "Performed release activities as an acting release engineer for GxP customers. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments",
                 "Researched and evaluated the difference between Cypress and TestCafe. Heavily influenced the company's tech stack choice",
                 "Participated in web application testing framework development using Cypress",
                 "Designed and implemented a test traceability system with Jira/Xray integration to enable the product to be GxP compliant",
                 "Supported/developed developer productivity tools"
+
             ]
         },
         {
