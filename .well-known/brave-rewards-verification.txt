@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: songyu-wang.github.io
+Token: 960745e236119935ef82cf0fd7231eee6c1c50913031a092868fd5ed98a53caf
