@@ -35,8 +35,10 @@
             "summary": "San Francisco, CA",
             "highlights": [
                "Participating in multiple company-wide quality-related projects for a cloud company that develops software platform powering breakthrough research on biotherapeutics, biofuels, and biomaterials",
-                "Improving E2E (end-to-end) testing coverage for various teams",
-                "Designing and implementing test case management SOP (standard operating procedure) that meets the regulations",
+                "Working on various test infrastructure improvements",
+                "Improving E2E (end-to-end) testing coverage for various teams by at least 10%",
+                "Onboarding all new hires for the QE(Quality Engineering) team",
+                "Designed and implemented test case management SOP (standard operating procedure) that meets the regulations",
                 "Participated in GxP (regulations and guidelines applicable to life sciences organizations) SOP design and technical implementation/automation",
                 "Designed and implemented software versioning CI (continuous integration) pipelines for various types of the product",
                 "Performed release activities as an acting release engineer for GxP customers. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments",
