@@ -6,7 +6,7 @@
         "email": "wangsongyuf@gmail.com",
         "phone": "1-812-201-9470",
         "website": "https://Songyu-Wang.github.io",
-        "summary": ["Software test engineer (quality assurance specialist) with four years of experience in test strategy design, test automation, test plan, test execution(manual and automated), and test framework/tool development in the highly regulated industry in a SCRUM/Agile environment. Experienced in complex test management and tractability. Have a deep understanding of functional testing with behavior-driven development and test-driven development. Have strong technical acumen with extensive defect and bug identification, triage, reporting, and verification exposures. Oversaw verification and validation regularly for web applications, API services, etc. "],
+        "summary": ["Software test engineer (quality assurance specialist) with five years of experience in test strategy design, test automation, test plan, test execution(manual and automated), and test framework/tool development in the highly regulated industry in a SCRUM/Agile environment. Experienced in complex test management and tractability. Have a deep understanding of functional testing with behavior-driven development and test-driven development. Have strong technical acumen with extensive defect and bug identification, triage, reporting, and verification exposures. Oversaw verification and validation regularly for web applications, API services, etc. "],
         "location": {
             "address": "",
             "postalCode": "",
@@ -34,18 +34,11 @@
             "endDate": "Present",
             "summary": "San Francisco, CA",
             "highlights": [
-               "Participating in multiple company-wide quality-related projects for a cloud company that develops software platform powering breakthrough research on biotherapeutics, biofuels, and biomaterials",
-                "Working on various test infrastructure improvements",
-                "Improving E2E (end-to-end) testing coverage for various teams by at least 10%",
-                "Onboarding new hires for the QE(Quality Engineering) team",
-                "Designed and implemented test case management SOP (standard operating procedure) that meets the regulations",
-                "Participated in GxP (regulations and guidelines applicable to life sciences organizations) SOP design and technical implementation/automation",
-                "Designed and implemented software versioning CI (continuous integration) pipelines for various types of the product",
-                "Performed release activities as an acting release engineer for GxP customers. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments",
-                "Researched and evaluated the difference between Cypress and TestCafe. Heavily influenced the company's tech stack choice",
-                "Participated in web application testing framework development using Cypress",
-                "Designed and implemented a test traceability system with Jira/Xray integration to enable the product to be GxP compliant",
-                "Supported/developed developer productivity tools"
+               "Participating in multiple company-wide quality-related projects for a cloud company that develops software platforms powering breakthrough research on biotherapeutics, biofuels, and biomaterials",
+                "Advancing the product(React+Flask+GraphQL+SQLalchemy+PostgreSQL+OpenSearch) verification and validation by establishing SOP(standard operating procedure) for test case management that meets the regulations, designing/implementing a test traceability system with Jira/Xray integration, improving E2E (end-to-end) automated testing coverage for various teams/components by at least 30% using Cypress, and collaborating with various teams/components to create 300+ new E2E test cases",
+                "Worked on various test infrastructure improvements including but not limited to E2E (end-to-end) test framework development/maintenance/integration using Typescript(Cypress+Playwright) and Python, API/mobile test framework consultation, and CI/CD (continuous integration/continuous delivery+deployment) pipeline development/maintenance/management with AWS, Terraform, Buildkite, Webpack, Datadog, Sumologic, Docker and more",
+                "Onboarded new hires for the QE(Quality Engineering) team",
+                "Participated in an early version of GxP (regulations and guidelines applicable to life sciences organizations) product delivery. Helped create the SOP and some of its technical implementation/automation. In addition, acted as a release engineer for more than half a year. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments"
             ]
         },
         {
@@ -120,6 +113,16 @@
     ],
     "education": [
         {
+            "institution": "University of Ottawa",
+            "studyType": "Master of Computer Science",
+            "startDate": "2021-01",
+            "endDate": "Present",
+            "summary": "Ottawa, ON",
+            "highlights": [
+                "Leave of absence due to non-academic life events (Completed 18/30 course units all with A+ grades)"
+            ]
+        },
+         {
             "institution": "Rose-Hulman Institute of Technology",
             "gpa": "3.73\/4",
             "studyType": "Bachelor of Science",

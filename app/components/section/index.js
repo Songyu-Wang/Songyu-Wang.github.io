@@ -28,7 +28,6 @@ const Section = React.createClass({
 			<About content={this.props.basics}/>
 			<Work content={this.props.work}/>
 			<Education content={this.props.education}/>
-			<Skills content={skillsContent}/>
 			<Footer content={this.props.basics}/>
 			</div>
 			);

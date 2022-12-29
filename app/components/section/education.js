@@ -22,8 +22,8 @@ const Entry = React.createClass({
             {this.props.entry.studyType}
             <span> &bull; </span>
             <span className='info-summary'>{this.props.entry.summary}</span>
-            <span> &bull; </span>
-            <span className='info'>{'GPA: ' + this.props.entry.gpa}</span>
+                {this.props.entry.gpa!==undefined&&([<span> &bull; </span>,<span className='info'>{'GPA: ' + this.props.entry.gpa}</span>])}
+
             <span> &bull; </span>
             <em className='date'>{startDate} - {endDate}</em>
             </p>

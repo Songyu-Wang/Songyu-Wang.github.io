@@ -14,7 +14,6 @@ function getNavigation() {
         about: 'About',
         work: 'Work',
         education: 'Education',
-        skill: 'Skills'
     };
 }
 
