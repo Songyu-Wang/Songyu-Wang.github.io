@@ -8,6 +8,10 @@ const Gallery = React.createClass({
 
   render: function () {
     const images = [
+      {
+      original: '../../public/images/astqb_ctfl.jpg',
+      thumbnail: '../../public/images/astqb_ctfl.jpg'
+    },
     {
       original: '../../public/images/triplebyte.jpg',
       thumbnail: '../../public/images/triplebyte.jpg'
@@ -36,6 +40,7 @@ const Gallery = React.createClass({
       original: '../../public/images/mta.jpg',
       thumbnail: '../../public/images/mta.jpg'
     },
+    
 
     ]
     return (
