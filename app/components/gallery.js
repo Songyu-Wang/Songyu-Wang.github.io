@@ -40,8 +40,10 @@ const Gallery = React.createClass({
       original: '../../public/images/mta.jpg',
       thumbnail: '../../public/images/mta.jpg'
     },
-    
-
+        {
+      original: '../../public/images/github.png',
+      thumbnail: '../../public/images/github.png'
+    },
     ]
     return (
       <ImageGallery items={images} showPlayButton={false}/>
