@@ -8,6 +8,10 @@ const Gallery = React.createClass({
 
   render: function () {
     const images = [
+       {
+      original: '../../public/images/astqb_ctai.png',
+      thumbnail: '../../public/images/astqb_ctai.png'
+    },
       {
       original: '../../public/images/astqb_ctfl.png',
       thumbnail: '../../public/images/astqb_ctfl.png'
