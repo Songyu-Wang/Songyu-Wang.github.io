@@ -6,7 +6,7 @@
         "email": "wangsongyuf@gmail.com",
         "phone": "1-812-201-9470",
         "website": "https://Songyu-Wang.github.io",
-        "summary": ["Software test engineer (quality assurance specialist) with six years of experience in test strategy design, test automation, test plan, test execution(manual and automated), and test framework/tool development in the highly regulated industry in a SCRUM/Agile environment. Experienced in complex test management and tractability. Have a deep understanding of functional testing with behavior-driven development and test-driven development. Have strong technical acumen with extensive defect and bug identification, triage, reporting, and verification exposures. Oversaw verification and validation regularly for web applications, API services, etc. "],
+        "summary": ["Software Test Engineer (Quality Assurance Specialist) with six years of experience developing and executing end-to-end(E2E) test strategies in highly regulated industries. Skilled in both manual and automated testing, with a strong ability to design and maintain test frameworks and CI/CD(continuous integration and continuous delivery or deployment) pipelines that integrate seamlessly into SCRUM/Agile environments. Adept at managing complex testing processes, emphasizing traceability, defect management, and functional testing. Consistently delivers reliable, high-quality software by driving rigorous testing and quality assurance practices."],
         "location": {
             "address": "",
             "postalCode": "",
@@ -34,12 +34,14 @@
             "endDate": "Present",
             "summary": "San Francisco, CA",
             "highlights": [
-               "Participating in multiple company-wide quality-related projects for a cloud company that develops software platforms powering breakthrough research on biotherapeutics, biofuels, and biomaterials",
-                "Advancing the product(React+Flask+GraphQL+SQLalchemy+PostgreSQL+OpenSearch) verification and validation by establishing SOP(standard operating procedure) for test case management that meets the regulations, designing/implementing a test traceability system with Jira/Xray integration, improving E2E (end-to-end) automated testing coverage for various teams/components by at least 30% using Cypress, and collaborating with various teams/components to create 300+ new E2E test cases",
-                "Worked on various test infrastructure improvements including but not limited to E2E (end-to-end) test framework development/maintenance/integration using Typescript(Cypress+Playwright) and Python, API/mobile test framework consultation, and CI/CD (continuous integration/continuous delivery+deployment) pipeline development/maintenance/management with AWS, Terraform, Buildkite, Webpack, Datadog, Sumologic, Docker and more",
-                "Onboarded new hires for the QE(Quality Engineering) team",
-                "Participated in an early version of GxP (regulations and guidelines applicable to life sciences organizations) product delivery. Helped create the SOP and some of its technical implementation/automation. In addition, acted as a release engineer for more than half a year. Responsibilities include developing release/upgrade plans, finalizing code for release, generating release patches, and performing testing and production environment deployments"
-            ]
+                "Contributing to various company-wide quality initiatives for a cloud-based software company that develops software platforms powering breakthrough research on biotherapeutics, biofuels, and biomaterials",
+                "Enhancing test infrastructure by developing and maintaining unit and E2E test frameworks using TypeScript (Cypress and Playwright), Python, and Bazel",
+                "Developing and managing multiple CI/CD pipelines for a 300-person engineering organization, utilizing a range of tools including AWS, Terraform, Buildkite, Webpack, Datadog, Sumologic, and Docker",
+                "Supporting TechOps (Technical Operations) by creating and analyzing observability dashboards for system health and cost governance, leading to resource allocation recommendations worth close to a million dollars annually ",
+                "Increased E2E automated testing coverage by 30% across multiple teams and components with Cypress, and collaborated on the development of over 300 new E2E test cases",
+                "Improved testing processes for tech stacks including React, Flask, GraphQL, SQLAlchemy, PostgreSQL, and OpenSearch by creating SOP(standard operating procedure)s for test case management and designing a Jira/Xray integrated test traceability system",
+                "Facilitated onboarding and mentored new Quality Engineering (QE) team members"
+                 ]
         },
         {
             "company": "HeartFlow, Inc",
@@ -49,15 +51,15 @@
             "endDate": "2020-04",
             "summary": "Redwood City, CA",
             "highlights": [
-                "Oversaw quality and testing for platforms' and services’ components in a SCRUM/Agile environment for a medical technology company that develops software used to create 3D models of coronary arteries to analyze blockages and the impact on blood flow",
-                "Supported development and verification of three web applications, three backend/API services and four workflow/product-related components",
-                "Maintained and refactored existing legacy test frameworks to improve stability and speed, continuously deliver new features for newer frameworks",
-                "Implemented and maintained internal tools to support the development and verification effort",
-                "Designed manual and automated tests using Python and JavaScript to refine and verify product requirements prior to launch/implementation",
-                "Discovered and managed hundreds of internal and external defects and bugs",
-                "Conducted verification/validation activities, including developing and executing test plans, reviewing results and writing reports, and collaborate with cross-functional teams to perform functional, regression, and system-level testing, and ensuring all test-related documentation meets the current corporate and federal regulations",
-                "Prepared Test /Risk Traceability Reports to document test execution outcomes and traced each product requirement and risk contributor/mitigator to the test"
-               ]
+                "Led quality assurance and testing for platform and service components in a SCRUM/Agile environment at a medical technology company specializing in software for 3D coronary artery modeling",
+                "Contributed to the development and verification of multiple projects, including three web applications, three backend/API services, and four workflow/product-related components",
+                "Enhanced the stability and efficiency of legacy test frameworks, enabling continuous delivery of new features and improvements in newer frameworks",
+                "Developed and maintained internal tools to streamline development and verification processes",
+                "Developed and performed manual and automated tests using Python and JavaScript to validate and refine product requirements, ensuring accuracy during implementation",
+                "Identified and managed hundreds of defects and bugs, driving resolutions to enhance product quality",
+                "Conducted comprehensive verification and validation activities, including test plan development, result analysis, and report writing. Collaborated with cross-functional teams to perform functional, regression, and system-level testing, ensuring all documentation complied with corporate and federal standards",
+                "Prepared detailed Test/Risk Traceability Reports, documenting test execution outcomes and linking each product requirement and risk to the appropriate tests"
+            ]
         },
         {
             "company": "HeartFlow, Inc",
