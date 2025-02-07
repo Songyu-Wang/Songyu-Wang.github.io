@@ -58,7 +58,7 @@ const Gallery = React.createClass({
     },
     ]
     return (
-      <ImageGallery items={images} showPlayButton={false}/>
+      <ImageGallery items={images} showPlayButton={false} showThumbnails={false}/>
       );
   }
 });
