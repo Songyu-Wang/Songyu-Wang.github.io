@@ -16,6 +16,14 @@ const Gallery = React.createClass({
       original: '../../public/images/astqb_ctfl.png',
       thumbnail: '../../public/images/astqb_ctfl.png'
     },
+     {
+      original: '../../public/images/aws1.png',
+      thumbnail: '../../public/images/aws1.png'
+    },
+     {
+      original: '../../public/images/aws2.png',
+      thumbnail: '../../public/images/aws2.png'
+    },
     {
       original: '../../public/images/triplebyte.jpg',
       thumbnail: '../../public/images/triplebyte.jpg'
